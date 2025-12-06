@@ -1,0 +1,31 @@
+URL,Status,Last Checked Date,Notes
+https://www.google.com,Indexed,"6/12/2025, 5:24:15 pm",HTTP 200 - Page accessible
+https://www.wikipedia.org,Indexed,"6/12/2025, 5:24:15 pm",HTTP 200 - Page accessible
+https://www.github.com,Indexed,"6/12/2025, 5:24:15 pm",HTTP 200 - Page accessible
+https://www.stackoverflow.com,Indexed,"6/12/2025, 5:24:15 pm",HTTP 200 - Page accessible
+https://www.youtube.com,Indexed,"6/12/2025, 5:24:15 pm",HTTP 200 - Page accessible
+https://www.amazon.com,Indexed,"6/12/2025, 5:24:15 pm",HTTP 200 - Page accessible
+https://www.facebook.com,Indexed,"6/12/2025, 5:24:15 pm",HTTP 200 - Page accessible
+https://www.twitter.com,Indexed,"6/12/2025, 5:24:15 pm",HTTP 200 - Page accessible
+https://www.linkedin.com,Indexed,"6/12/2025, 5:24:15 pm",HTTP 200 - Page accessible
+https://www.reddit.com,Indexed,"6/12/2025, 5:24:15 pm",HTTP 200 - Page accessible
+https://www.example.com/very/deep/page/12345,Not Indexed,"6/12/2025, 5:24:15 pm",HTTP 404 - Page not found
+https://www.testsite123456789.com,Invalid URL,"6/12/2025, 5:24:15 pm",DNS not found - Domain does not exist
+https://www.myunknownwebsite.org,Invalid URL,"6/12/2025, 5:24:15 pm",DNS not found - Domain does not exist
+https://subdomain.rarely-visited-site.com,Invalid URL,"6/12/2025, 5:24:15 pm",DNS not found - Domain does not exist
+https://www.obscure-tech-blog.io/post/99999,Invalid URL,"6/12/2025, 5:24:15 pm",DNS not found - Domain does not exist
+https://www.hidden-portfolio.net/projects,Invalid URL,"6/12/2025, 5:24:15 pm",DNS not found - Domain does not exist
+https://staging.example-company.com,Invalid URL,"6/12/2025, 5:24:15 pm",DNS not found - Domain does not exist
+https://www.personal-blog-2024.com/archives,Invalid URL,"6/12/2025, 5:24:15 pm",DNS not found - Domain does not exist
+https://beta.newstartup.tech,Invalid URL,"6/12/2025, 5:24:15 pm",DNS not found - Domain does not exist
+https://www.niche-hobby-forum.com/thread/54321,Invalid URL,"6/12/2025, 5:24:15 pm",DNS not found - Domain does not exist
+http://thisisnotavalidurl,Invalid URL,"6/12/2025, 5:24:15 pm",DNS not found - Domain does not exist
+https://999.999.999.999,Invalid URL,"6/12/2025, 5:24:15 pm",Invalid URL format
+htp://wrong-protocol.com,Invalid URL,"6/12/2025, 5:24:15 pm",Invalid URL format
+www.missing-protocol.com,Invalid URL,"6/12/2025, 5:24:15 pm",Invalid URL format
+https://nonexistent-domain-12345678.xyz,Invalid URL,"6/12/2025, 5:24:15 pm",DNS not found - Domain does not exist
+https://fake website.com,Invalid URL,"6/12/2025, 5:24:15 pm",Invalid URL format
+https://.com,Invalid URL,"6/12/2025, 5:24:15 pm",DNS not found - Domain does not exist
+not-a-url-at-all,Invalid URL,"6/12/2025, 5:24:15 pm",Invalid URL format
+https://localhost:99999,Invalid URL,"6/12/2025, 5:24:15 pm",Invalid URL format
+ftp://wrong-scheme.com,Invalid URL,"6/12/2025, 5:24:15 pm",Invalid URL format
