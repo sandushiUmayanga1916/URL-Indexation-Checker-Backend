@@ -18,6 +18,11 @@ app.use(express.urlencoded({ extended: true }));
 // Serve static files (for any frontend build)
 app.use(express.static(path.join(__dirname, 'public')));
 
+app.get('/', (req, res) => {
+  res.send('Backend is running!');
+});
+
+
 // Routes
 app.use('/api/urls', urlRoutes);
 
@@ -48,3 +53,4 @@ app.listen(PORT, () => {
   startScheduler();
   console.log('');
 });
+
